@@ -1,0 +1,42 @@
+PROCUREFLOW ASSESSMENT ENVIRONMENT
+==================================
+
+IDENTITAS
+Nama peserta        :
+ID peserta          :
+Kelas atau tim      :
+
+WAKTU
+Mulai               :
+Selesai             :
+Zona waktu          : Asia/Jakarta
+
+ARTIFACT
+Release identifier  :
+SHA-256 ProcureFlow :
+
+PERANGKAT
+Sistem operasi      :
+Docker              :
+Docker Compose      :
+OpenCode            :
+Provider/model      :
+Versi model         :
+Permission profile  :
+Budget AI           :
+Akses Internet      : aktif / nonaktif
+
+RUNTIME LOKAL
+URL aplikasi        :
+Port host           :
+Container aktif     :
+Hasil health check  :
+Reset yang dilakukan:
+
+KENDALA
+Kendala environment :
+Intervensi instruktur:
+Waktu terdampak     :
+
+CATATAN
+Jangan masukkan password, token, cookie, private key, atau isi file .env.
